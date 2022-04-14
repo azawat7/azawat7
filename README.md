@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @im-a-panda-guy
+- 👋 Hi, I’m @azawat7
 
 - 🌱 I’m currently learning node.js (discord.js) and C#
  
